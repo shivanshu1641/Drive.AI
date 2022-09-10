@@ -10,6 +10,10 @@ Once Carla Simulator is Up and running paste all the files from [here](https://g
 ### [Python](https://www.python.org/) Setup
 
 Run `pip install requirements.txt` to get all the Python packages with appropriate version.
+### Demo
+To execute the project navigate to 
+`{Path Where Carla is stored}\Carla\CARLA_0.9.12\WindowsNoEditor\PythonAPI\examples
+` and run the below mentioned commands to see the results for yourself.
 
 #### PID Controller
 ```
