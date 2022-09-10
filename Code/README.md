@@ -19,24 +19,32 @@ python pidController.py
 #### Object Detection
 ```
 python spawn_cam.py
+```
+```
 python spawnVehicles.py
 ```
 
 ####  PID + Object Detection
 ```
 python pid_obj_detect.py
+```
+```
 python visualize_cam.py
 ```
 
 #### Lane detection
 ```
 python automatic_control.py
+```
+```
 python visualize_lane.py
 ```
 
 #### EndToEnd Framework
 ```
 python endToend.py
+```
+```
 python visualize_cam.py 
 ``` 
 
