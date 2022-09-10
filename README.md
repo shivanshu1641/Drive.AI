@@ -19,9 +19,9 @@ and interacting appropriately with environment agents.
 [Python](https://linktodocumentation)
 
 #### Model / Major Packages
-[YoloV5](https://github.com/ultralytics/yolov5)
-[OpenCV](https://opencv.org/)
-[Pandas](https://pandas.pydata.org/)
+[YoloV5](https://github.com/ultralytics/yolov5),
+[OpenCV](https://opencv.org/),
+[Pandas](https://pandas.pydata.org/),
 [Pytorch](https://pytorch.org/)
 
 #### Simulator
