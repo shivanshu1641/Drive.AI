@@ -1,6 +1,8 @@
-### End2End Framework
+## End2End Framework
 All the phases are combined in to a single pipeline and executed together to navigate the vehicle on a predefined path via interacting with Traffic Signals and Other Vehicles.
-### Flow Chart
+* [Flow Diagram](https://github.com/shivanshu1641/Drive.AI/tree/main/Explaination%20%2B%20Results/5.%20End2End%20Framework#flow-diagram)
+* [Snippets](https://github.com/shivanshu1641/Drive.AI/tree/main/Explaination%20%2B%20Results/5.%20End2End%20Framework#result-snippets)
+### Flow Diagram
 ![Flow Chart](https://github.com/shivanshu1641/Drive.AI/blob/main/Explaination%20+%20Results/5.%20End2End%20Framework/FlowChart.png?raw=true)
 
 ### Result Snippets
