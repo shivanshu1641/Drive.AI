@@ -9,7 +9,7 @@ and interacting appropriately with environment agents.
 
 - *PID controller* : Navigate the vehicle from point A to point B
 - *Object Detection* : Detect Traffic signals and Vehicles
-- *PID + Traffic Signals* : Overriding PID control as per Traffic Signals
+- *Traffic Signal Handling* : Overriding PID control as per Traffic Signals
 - *Obstacle Detection* : Classify the detected objects are close with immediate impact, near with delayed impact and far with no impact on the trajectory
 - *PID + Traffic Signals + Obstacles* : Combining all the models created.
 
