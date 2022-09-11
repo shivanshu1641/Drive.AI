@@ -1,9 +1,9 @@
 
 ### PID Controller 101
-![PID Controller](https://github.com/shivanshu1641/Drive.AI/blob/main/Explaination%20+%20Results/1.%20PID%20Controller/PID%20Controller.png?raw=true)
+![PID Controller](https://github.com/shivanshu1641/Drive.AI/blob/main/Explaination%20+%20Results/1.%20PID%20Controller/FlowChart1.png?raw=true)
 
 ### PID Controller In CARLA Simulator 
-![PID Controller In Carla Simulator](https://github.com/shivanshu1641/Drive.AI/blob/main/Explaination%20+%20Results/1.%20PID%20Controller/PID%20Controller%20in%20Carla%20Simulator.png?raw=true)
+![PID Controller In Carla Simulator](https://github.com/shivanshu1641/Drive.AI/blob/main/Explaination%20+%20Results/1.%20PID%20Controller/FlowChart2.png?raw=true)
 
 ### Output Snippets
 * Green Dotted Path is the path, vehicle is *supposed* to follow.
