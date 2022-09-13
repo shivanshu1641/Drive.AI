@@ -13,6 +13,8 @@ and interacting appropriately with environment agents.
 - *Obstacle Detection* : Classify the detected objects are close with immediate impact, near with delayed impact and far with no impact on the trajectory
 - *PID + Traffic Signals + Obstacles* : Combining all the models created.
 
+#### Basic Flow Diagram
+![Basic Flow Diagram](https://github.com/shivanshu1641/Drive.AI/blob/main/Project%20Model.png?raw=true)
 
 #### Language
 
@@ -28,5 +30,4 @@ and interacting appropriately with environment agents.
 [Carla](https://carla.org/)
 
 
-![Basic Flow Diagram](https://github.com/shivanshu1641/Drive.AI/blob/main/Project%20Model.png?raw=true)
 
