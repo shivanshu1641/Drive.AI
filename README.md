@@ -1,7 +1,7 @@
 
 # Drive.AI
 
-End-End framework for autonomous maneuvering of vehicles in Carla Simulator 
+End-End framework for autonomous manoeuvring of vehicles in Carla Simulator 
 from point A to point B on a predefined trajectory following traffic signals 
 and interacting appropriately with environment agents. 
 ### The task of maneuvering is divided into sub problems: 
